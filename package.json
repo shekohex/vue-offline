@@ -63,7 +63,7 @@
     "http-proxy-middleware": "^0.17.4",
     "inject-loader": "^4.0.0",
     "moment": "^2.20.1",
-    "nightwatch": "^0.9.19",
+    "nightwatch": "^1.0.1",
     "node-sass": "^4.7.2",
     "offline-plugin": "^4.9.0",
     "opn": "^5.2.0",
