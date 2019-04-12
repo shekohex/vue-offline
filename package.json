@@ -22,7 +22,7 @@
     "vue": "2.5.14",
     "vue-axios": "^2.0.2",
     "vue-lazyload": "^1.2.0",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.0.4",
     "vue-ts-locale": "^1.0.2",
     "vue-typed": "git+https://github.com/icfr/vue-typed.git#update_vue",
     "vuex": "^3.0.1"
