@@ -90,7 +90,7 @@
     "vue-template-compiler": "2.5.14",
     "webpack": "^4.0.0",
     "webpack-bundle-analyzer": "^2.10.0",
-    "webpack-dashboard": "^1.1.1",
+    "webpack-dashboard": "^3.0.5",
     "webpack-dev-middleware": "^3.0.0",
     "webpack-hot-middleware": "^2.21.0",
     "webpack-merge": "^4.1.1"
