@@ -67,7 +67,7 @@
     "moment": "^2.20.1",
     "nightwatch": "^1.0.1",
     "node-sass": "^4.7.2",
-    "offline-plugin": "^5.0.0",
+    "offline-plugin": "^5.0.7",
     "opn": "^5.2.0",
     "optimize-css-assets-webpack-plugin": "^4.0.0",
     "ora": "^2.0.0",
