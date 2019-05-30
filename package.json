@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "buefy": "^0.6.3",
+    "buefy": "^0.7.7",
     "core-js": "^2.5.3",
     "js-logger": "^1.4.1",
     "localforage": "^1.5.6",
