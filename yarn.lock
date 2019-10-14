@@ -94,9 +94,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.48.tgz#e385073561643a9ba6199a1985ffc03530f90781"
   integrity sha512-c35YEBTkL4rzXY2ucpSKy+UYHjUBIIkuJbWYbsGIrKLEWU5dgJMmLkkIb3qeC3O3Tpb1ZQCwecscvJTDjDjkRw==
 
-"@types/webpack-env@^1.13.5":
-  version "1.13.5"
-  resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.13.5.tgz#ca854e9fbdbcdf45d7376882875f28e2c60593f8"
+"@types/webpack-env@^1.14.1":
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.14.1.tgz#0d8a53f308f017c53a5ddc3d07f4d6fa76b790d7"
+  integrity sha512-0Ki9jAAhKDSuLDXOIMADg54Hu60SuBTEsWaJGGy5cV+SSUQ63J2a+RrYYGrErzz39fXzTibhKrAQJAb8M7PNcA==
 
 "@vue/component-compiler-utils@^2.5.1":
   version "2.6.0"
