@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "buefy": "^0.6.3",
-    "core-js": "^2.5.3",
+    "core-js": "^3.5.0",
     "js-logger": "^1.4.1",
     "localforage": "^1.5.6",
     "timeago.js": "^3.0.2",
