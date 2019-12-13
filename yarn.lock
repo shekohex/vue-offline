@@ -8155,10 +8155,10 @@ vue-style-loader@^4.0.2, vue-style-loader@^4.1.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@2.5.14:
-  version "2.5.14"
-  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.5.14.tgz#ba058359d4bd5ba0807fbc8adfc98065d7dbfebd"
-  integrity sha512-jN1JGEtm3TAvnARlbReKsHdu++jgj0H9lK5nv/p5nRXR3acej9PFmgrAmZ2LrdNRBZnWyHoSdkYKnEBxeex+rQ==
+vue-template-compiler@2.6.11:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.11.tgz#c04704ef8f498b153130018993e56309d4698080"
+  integrity sha512-KIq15bvQDrcCjpGjrAhx4mUlyyHfdmTaoNfeoATHLAiWB+MU3cx4lOzMwrnUh9cCxy0Lt1T11hAFY6TQgroUAA==
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -8183,10 +8183,10 @@ vue-ts-locale@^1.0.2:
   version "2.1.1"
   resolved "git+https://github.com/icfr/vue-typed.git#6fd64c54f55eeae97e6c82f44ab2d1d0e476b604"
 
-vue@2.5.14:
-  version "2.5.14"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.14.tgz#74cb248a471053939abf6cdf2c406d4c311ab5a7"
-  integrity sha512-mVgzSfYvL6WXJhBkZNbJ/hZCJae6gjnnooa7K/HXfBPWKtqpBWHKfZVWV66a7x4JtE5vnQ4P1RW+OeqbWq2pOQ==
+vue@2.6.11:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
+  integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
 vue@^2.2.6:
   version "2.5.13"
