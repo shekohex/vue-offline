@@ -76,7 +76,7 @@
     "rimraf": "^2.6.2",
     "sass-loader": "^7.0.0",
     "semver": "^5.5.0",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.4",
     "style-loader": "^0.21.0",
     "sw-precache-webpack-plugin": "^0.11.4",
     "tslint": "^5.9.1",
